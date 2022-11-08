@@ -1,0 +1,25 @@
+.d1 {
+    background-color:red;
+    width: 100px;
+    height: 5em;
+    text-align: center;
+}
+.d2 {
+    background-color:yellow;
+    width: 100px;
+    height: 5em;
+    float:left;
+    text-align: left;
+}
+.d3 {
+    background-color:greenyellow;
+    width: 100px;
+    height:5em;
+    float:left;  
+}
+.d4 {
+    background-color:blue;
+    width: 100px;
+    height: 5em;
+    float:left;  
+}

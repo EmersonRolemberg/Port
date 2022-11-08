@@ -1,0 +1,50 @@
+body {
+    background-color: #3B4149;
+  }
+  
+  .info {
+    color: #E8E4E2;
+    text-align: center;
+    font-family: "Verdana";
+  }
+  
+  .container {
+    display: flex; 
+    flex-direction: row;
+    justify-content: flex-start;
+    
+  }
+  
+  .box {
+    display: block;
+    justify-content: flex-start;
+    width: 100px;
+    line-height: 100px;
+    margin: 3px;
+    font-family: "Verdana";
+    color: #E8E4E2;
+    text-align: center;
+    vertical-align: center;
+    
+  }
+  
+  .primeira {
+    background-color: #857B62;
+  }
+  
+  .segunda {
+    background-color: #819392;
+  }
+  .terceira {
+    background-color:blue;
+  }
+ /* 
+  
+  @media (max-width: 700px) {
+    body {
+      background-color: #d3d3d3;
+    }
+    /* Modifique o flex-container da página para exibir em colunas! */
+    
+  }
+  
